@@ -1,5 +1,15 @@
 ### Hello world! 👋
 
+I'm a Senior Application Scientist at the Henry Royce Institute for Advanced Materials, based at The University of Manchester.
+
+As a materials scientist, I'm interested in understanding deformation mechanisms and the effects of irradiation on metals, with a particular interest in zirconium, titanium, tungsten, and iron alloys. 
+
+By integrating nanoscale strain mapping with crystallographic orientation mapping from scanning electron microscopy using [DefDAP](https://github.com/MechMicroMan/DefDAP), we can gain deeper insights into the behavior of these materials. 
+
+ 📫 [Email me](rhys.thomas@manchester.ac.uk)
+
+ 👨🏽‍💻 [Google Scholar](https://scholar.google.com/citations?user=i9PRRy0AAAAJ&hl=en)
+
 <!--
 **rhysgt/rhysgt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
